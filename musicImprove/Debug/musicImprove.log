@@ -1,0 +1,24 @@
+﻿Compilación iniciada a las 25/04/2018 09:32:50 a. m..
+     1>Proyecto "C:\Users\Alex\Documents\Visual Studio 2013\Projects\musicImprove\musicImprove\musicImprove.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Alex\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alex\Documents\Visual Studio 2013\Projects\musicImprove\Debug\musicImprove.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\musicImprove.Afinador.resources /ASSEMBLYRESOURCE:Debug\musicImprove.Guitarras.resources /ASSEMBLYRESOURCE:Debug\musicImprove.Guitarras2.resources /ASSEMBLYRESOURCE:Debug\musicImprove.home.resources /ASSEMBLYRESOURCE:Debug\musicImprove.Lecciones.resources /ASSEMBLYRESOURCE:Debug\musicImprove.leccionesAvanzadas.resources /ASSEMBLYRESOURCE:Debug\musicImprove.Login.resources /ASSEMBLYRESOURCE:Debug\musicImprove.Novedades.resources /ASSEMBLYRESOURCE:Debug\musicImprove.Principiante.resources /ASSEMBLYRESOURCE:Debug\musicImprove.Registro.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Alex\Documents\Visual Studio 2013\Projects\musicImprove\Debug\musicImprove.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Afinador.obj
+         Debug\Guitarras.obj
+         Debug\Guitarras2.obj
+         Debug\home.obj
+         Debug\Lecciones.obj
+         Debug\leccionesAvanzadas.obj
+         Debug\Login.obj
+         Debug\main.obj
+         Debug\Novedades.obj
+         Debug\Principiante.obj
+         Debug\Registro.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         musicImprove.vcxproj -> C:\Users\Alex\Documents\Visual Studio 2013\Projects\musicImprove\Debug\musicImprove.exe
+     1>Compilación del proyecto terminada "C:\Users\Alex\Documents\Visual Studio 2013\Projects\musicImprove\musicImprove\musicImprove.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:09.11
